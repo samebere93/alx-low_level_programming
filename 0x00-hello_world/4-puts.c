@@ -2,7 +2,7 @@
 
 /**
  * main - prints "programming is like building a multilingual
- * puzzle, follow by a new line.
+ * puzzle.
  * Return: Always 0.
  */
 

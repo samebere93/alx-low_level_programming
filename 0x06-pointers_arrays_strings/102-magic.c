@@ -1,9 +1,4 @@
 #include <stdio.h>
-/**
- * main - learning how to be magical
- *
- * Return: void
- */
 
 int main(void)
 {
